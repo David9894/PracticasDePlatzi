@@ -25,7 +25,7 @@ Sexo
 Masculino
 
 Cumpleaños
-30 de Octubre
+29 de Octubre
 
 Constelación
 Acer Palmatum
@@ -35,3 +35,5 @@ Inazuma
 
 Afiliación
 Flota Crux Meridianam
+
+Lo tengo En mi Cuenta	
